@@ -2,6 +2,8 @@ Project Title: Titanic Data Visualization - Top 5 Ticket Fares
 
 ​Description-
 
+![Top 5 Fares Graph](./2025-12-28%2011-57-33.png)
+
 ​This project demonstrates how to perform data analysis and visualization using Python's Pandas and Matplotlib libraries. By analyzing the famous Titanic dataset, I extracted the top 5 passengers who paid the highest ticket fares and visualized the data through a bar chart.
 
 ​Key Features-
