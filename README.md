@@ -17,7 +17,7 @@ Project Title: Titanic Data Visualization - Top 5 Ticket Fares
 
 ​Automated Export: The script automatically saves the generated chart as a .png file for reporting purposes.
 
-​Technologies Used
+​Technologies Used-
 
 ​Language: Python
 
