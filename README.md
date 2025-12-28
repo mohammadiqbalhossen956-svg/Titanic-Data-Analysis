@@ -23,7 +23,7 @@ Project Title: Titanic Data Visualization - Top 5 Ticket Fares
 
 ​Environment: Developed and tested on Pydroid 3 (Mobile IDE)
 
-​How to Run
+​How to Run-
 
 ​Ensure you have pandas and matplotlib installed.
 ​Run the main.py script.
